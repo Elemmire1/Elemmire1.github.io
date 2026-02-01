@@ -17,5 +17,7 @@ B.S. John Class, Zhiyuan College, Shanghai Jiao Tong University (2023.9 ~ 2027 e
 *ICML 2026 (Under Review)*
 
 **Towards Compressive and Scalable Recurrent Memory**
+
 Yunchong Song, Jushi Kai, **Liming Lu**, Kaixi Qiu, Zhouhan Lin
+
 *ICML 2026 (Under Review)*
