@@ -16,8 +16,6 @@ B.S. John Class, Zhiyuan College, Shanghai Jiao Tong University (2023.9 ~ 2027 e
 **Liming Lu**, Kaixi Qiu, Jiayu Zhou, Jushi Kai, Haoyan Zhang, Huanyu Wang, Jingwen Leng, Ziwei He, Zhouhan Lin  
 *ICML 2026 (Under Review)*
 
-**Towards Compressive and Scalable Recurrent Memory**
-
-Yunchong Song, Jushi Kai, **Liming Lu**, Kaixi Qiu, Zhouhan Lin
-
+**Towards Compressive and Scalable Recurrent Memory**  
+Yunchong Song, Jushi Kai, **Liming Lu**, Kaixi Qiu, Zhouhan Lin  
 *ICML 2026 (Under Review)*
