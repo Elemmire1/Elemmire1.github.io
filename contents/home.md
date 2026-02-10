@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Elemmire1)
 
 I’m a junior undergraduate in the John Class at Zhiyuan College, Shanghai Jiao Tong University. I am currently an undergraduate research intern, fortunate to be advised by Prof. Zhouhan Lin at Lumia Lab, SJTU. My research interests include, but are not limited to Efficient LLM, as well as Long Context Modeling.
 
