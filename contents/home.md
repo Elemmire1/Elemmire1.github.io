@@ -21,5 +21,5 @@ Yunchong Song, Jushi Kai, **Liming Lu**, Kaixi Qiu, Zhouhan Lin
 *ICML 2026 (Under Review)*
 
 **One-for-all Intermittent Renewable Energy Forecasting with a Physics-guided Foundation Model**  
-Haipeng Zhang, Yifan Liu, Xinyu Gu, **Liming Lu**, ... , Lei Bai, Zhouhan Lin, Ran Li
+Haipeng Zhang, Yifan Liu, Xinyu Gu, **Liming Lu**, ... , Lei Bai, Zhouhan Lin, Ran Li  
 *Nature Energy (Under Review)*
